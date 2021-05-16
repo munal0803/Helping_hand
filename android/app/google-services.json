@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472957720891",
+    "project_id": "help-pdosi",
+    "storage_bucket": "help-pdosi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472957720891:android:f49500904e6e81482d7f1e",
+        "android_client_info": {
+          "package_name": "com.example.helping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472957720891-rm41h8n548qi93j6g7fl7bleinhgsrng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGoZ4CCuZCfXVt1-fZzUWusiz1sNVcHtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472957720891-rm41h8n548qi93j6g7fl7bleinhgsrng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
